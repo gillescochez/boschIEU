@@ -3,6 +3,7 @@
   "version": "2.0.0",
   "description": "",
   "main": "example/repl.js",
+  "license": "MIT",
   "dependencies": {
     "i2c": "^0.2.3",
     "i2c-bus": "^1.2.2",
@@ -12,7 +13,8 @@
   },
   "devDependencies": {
     "mqtt": "^2.15.2",
-    "repler": "file:../repler"
+    "repler": "file:../repler",
+    "typescript": "^2.8.3"
   },
   "repository": {
     "type": "git",
